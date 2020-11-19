@@ -1,7 +1,5 @@
 alabaster==0.7.12
 altair==4.1.0
-argh==0.26.2
-argon2-cffi @ file:///tmp/build/80754af9/argon2-cffi_1596828493937/work
 astor==0.8.1
 astroid @ file:///tmp/build/80754af9/astroid_1592495912941/work
 async-generator==1.10
